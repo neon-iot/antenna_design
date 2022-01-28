@@ -1,6 +1,6 @@
 # Demo course template
 ## About this course
-This course...
+This course ..............
 
 ## Main topics
 * This
