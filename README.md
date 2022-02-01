@@ -36,7 +36,7 @@ TABLE OF CONTENT
 	6.4.- Example of a Constructed Antenna 
 7.- Antenna Characterization (4h) 
 	7.1.- Anechoic Chambers and TEM Cells 
-	7.2.- Characterization without Using Anechoic Chambers or TEM Cells 
+	7.2.- Characterization without Using Anechoic Chambers or 	 	TEM Cells 
 
 ## What you will learn
 The objective is to offer a small antenna design course, using a professional tool for this such as Computer Simulation Technology (CST) software.
