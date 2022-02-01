@@ -1,6 +1,6 @@
 # ANTENNA DESIGN COURSE
 ## About this course
-This is an antenna design course, thought to be taught during six weeks with a charge of 24 hours of lectures, 4 hours for consults, and 4 hours for evaluation. This course will be approved by the realization of an antenna design project, the writing of a document about this design in a paper format and the oral presentation of this work. 
+This is an antenna design course, thought to be taught during six weeks with a charge of 24 hours of lectures, 4 hours for consults, and 4 hours for evaluation. This course will be approved by the realization of an antenna design project, the writing of a document about this design in paper format and the oral presentation of this work. 
 
 ## Main topics
 TABLE OF CONTENT 
