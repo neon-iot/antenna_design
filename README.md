@@ -2,6 +2,9 @@
 ## About this course
 This is an antenna design course, thought to be taught during six weeks with a charge of 24 hours of lectures, 4 hours for consults, and 4 hours for evaluation. This course will be approved by the realization of an antenna design project, the writing of a document about this design in paper format and the oral presentation of this work. 
 
+The responsible for this course is Dr.-Ing. Benigno Rodríguez at FING/UDELAR, Montevideo, Uruguay. For any question you can contact him by email writing to: benigno@fing.edu.uy .
+
+
 ## Main topics
 TABLE OF CONTENT 
 1.- Antenna Theory and Propagation (3h) 
