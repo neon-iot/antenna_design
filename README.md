@@ -2,7 +2,7 @@
 ## About this course
 This is an antenna design course, thought to be taught during six weeks with a charge of 24 hours of lectures, 4 hours for consultations, and 4 hours for evaluation. This course will be approved by the realization of an antenna design project, the writing of a document about this design in paper format and the oral presentation of this work. 
 
-The responsible for this course is Dr.-Ing. Benigno Rodríguez at FING/UDELAR, Montevideo, Uruguay. For any question you can contact him by email writing to: benigno@fing.edu.uy .
+The responsible for this course is Dr.-Ing. Benigno RodrÃ­guez at FING/UDELAR, Montevideo, Uruguay. For any question you can contact him by email writing to: benigno@fing.edu.uy .
 
 
 ## Main topics
@@ -62,3 +62,5 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+![logo_neon_erasmus](https://github.com/neon-iot/antenna_design/blob/main/images/BannerSupportErasmus.png)
+
